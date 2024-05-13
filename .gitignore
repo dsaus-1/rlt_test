@@ -19,4 +19,3 @@ postgres_data
 .env.docker
 .vscode/
 .coverage
-db*
